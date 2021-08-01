@@ -1,4 +1,4 @@
-# Microsoft's Meets Hollywood
+# Microsoft Meets Hollywood
 # Overview
 # Business Understanding
 # Data Analysis & Methodology
