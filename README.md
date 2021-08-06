@@ -26,3 +26,10 @@ Film Studios that have made the highest domestic gross between the years of 2010
 ![image](https://user-images.githubusercontent.com/82670256/128439682-3c23f3b5-33b0-4510-a53d-a87164bd2f31.png)
 
 # Conclusion & Future Steps 
+- The mains months that Microsoft Studios should release their films based on ROI follow in this respective order: March, September, July, May, August, February, October, November, December, January, June, and April
+
+- The mains months that Microsoft Studios should release their films based on ROI follow in this respective order: Friday, Wednesday, Thursday, Tuesday, Sunday, Saturday, and Monday
+
+- Microsoft Studios should partner with a studio that has shown high level of profitability. If they don’t partner with any studio, they should at least put focus their main market research on the studios with the highest RIOs to have greater profitability in the future. 
+
+
