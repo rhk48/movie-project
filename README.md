@@ -13,10 +13,16 @@ Microsoft can increase their profitability if they: A) Release films in during m
 # Data Analysis & Methodology
 This project focuses on descriptive analysis, in addition to looking at trends that build onto one another. It will provide Microsoft with the proper recommendations and insight to further its goals of being a profitable studio.  
 # Results
+Most months that show a high number of releases also show a lower RIO compared to months that have a low number of releases have a higher RIO.
 
 ![image](https://user-images.githubusercontent.com/82670256/128439669-f39cb172-26a6-4cbe-b815-0b10884be6b2.png)
+
+Friday has the highest number of film releases, and the highest RIO, but all days that follow have a correlation of high number of releases and low RIO and a low number of releases with a high RIO. 
+
 ![image](https://user-images.githubusercontent.com/82670256/128439673-2690981c-5c4a-4bf9-bd25-debaf43d279e.png)
+
+Film Studios that have made the highest domestic gross between the years of 2010-2018. 
+
 ![image](https://user-images.githubusercontent.com/82670256/128439682-3c23f3b5-33b0-4510-a53d-a87164bd2f31.png)
 
-# Future Steps 
-# Conclusion 
+# Conclusion & Future Steps 
