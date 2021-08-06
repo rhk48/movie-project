@@ -13,5 +13,10 @@ Microsoft can increase their profitability if they: A) Release films in during m
 # Data Analysis & Methodology
 This project focuses on descriptive analysis, in addition to looking at trends that build onto one another. It will provide Microsoft with the proper recommendations and insight to further its goals of being a profitable studio.  
 # Results
+
+![image](https://user-images.githubusercontent.com/82670256/128439669-f39cb172-26a6-4cbe-b815-0b10884be6b2.png)
+![image](https://user-images.githubusercontent.com/82670256/128439673-2690981c-5c4a-4bf9-bd25-debaf43d279e.png)
+![image](https://user-images.githubusercontent.com/82670256/128439682-3c23f3b5-33b0-4510-a53d-a87164bd2f31.png)
+
 # Future Steps 
 # Conclusion 
