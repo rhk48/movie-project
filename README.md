@@ -11,6 +11,7 @@ This project analyzes a series of data sets to provide insights and recommendati
 # Business Understanding
 Microsoft can increase their profitability if they: A) Release films in during months that have the lowest number of releases, B) Release films primarily on Fridays, in addition to other days that show a high RIO when released on given day, and C) Look into partnering with a highly profitable film studio or invest market research in the studios that have shown the highest domestic gross on films.   
 # Data Analysis & Methodology
+This project focuses on descriptive analysis, in addition to looking at trends that build onto one another. It will provide Microsoft with the proper recommendations and insight to further its goals of being a profitable studio.  
 # Results
 # Future Steps 
 # Conclusion 
