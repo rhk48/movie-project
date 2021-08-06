@@ -19,7 +19,7 @@ Most months that show a high number of releases also show a lower RIO compared t
 
 Friday has the highest number of film releases, and the highest RIO, but all days that follow have a correlation of high number of releases and low RIO and a low number of releases with a high RIO. 
 
-![image](https://user-images.githubusercontent.com/82670256/128439673-2690981c-5c4a-4bf9-bd25-debaf43d279e.png)
+![image](https://user-images.githubusercontent.com/82670256/128507698-3e58025c-8359-424d-a228-2b5b39173d1d.png)
 
 Film Studios that have made the highest domestic gross between the years of 2010-2018. 
 
